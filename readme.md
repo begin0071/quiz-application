@@ -3,11 +3,11 @@ A Timed multiple choice quiz, that runs in the browser.
 ## Details  
 Assignment #4  
 Due: 1/7/2023  
-Repo: https://github.com/begin0071/quizgame 
-Deployed: https://begin0071.github.io/quizgame/ 
+Repo: https://github.com/begin0071/quiz-application 
+Deployed: https://begin0071.github.io/quiz-application/
 
-<img src="/images/mainpage.png">  
-<img src="/images/inquiz.png">   
+<img src="/assets/images/mainpage.png">  
+<img src="/assets/images/inquiz.png">   
  
 
 ## User Story
