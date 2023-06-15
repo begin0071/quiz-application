@@ -28,27 +28,22 @@ startButton.setAttribute("class", "start");
 scoresButton.setAttribute("class", "scores");
 
 let questions = [
-  {question: "Who was the father of Computer?",
-    answers: ["Charlie Babbage", "Dennis Ritchie", "Charles Babbage", "Ken Thompson"],
-    correctAnswer: "Charles Babbage"},
-  {question: "What is the full form of CPU?",
-    answers: ["Central Process Unit", "Central Processing Unit", "Central Programming Unit", "Central Progressive Unit"],
-    correctAnswer: "Central Processing Unit"},
-  {question: "What is the full form of CU?",
-    answers: ["Compound Unit", "Communication Unit", "Computer Unit", "Control Unit"],
-    correctAnswer: "Control Unit"},
-  {question: "What is the full form of ALU?",
-    answers: ["Arithmetic Logic Unit", "Arithmetic Local Unit", "Advacnce Logical Unit", "None of the above"],
-    correctAnswer: "Arithmetic Logic Unit"},
-  {question: "What is the full form of MU?",
-    answers: ["Management Unit", "Masked Unit", "Main Unit", "Memory Unit"],
-    correctAnswer: "Memory Unit"},
-  {question: "Which electronics component is used in first generation computers?",
-    answers: ["Transistors", "ULSI Chips", "Vacuum Tubes", "LSI Chips"],
-    correctAnswer: "Vacuum Tubes"},
-  {question: "Which is not a correct type of computer?",
-    answers: ["Mini Frame Computer", "Super Computer", "Workstations", "Personal Computer"],
-    correctAnswer: "Mini Frame Computer"},
+  {question: "which year was telegram initially launched?",
+    answers: ["golden age", "2013", "Eighteen eighty", "no one cares"],
+    correctAnswer: "2013"},
+  {question: "Who is the founder of Telegram?",
+    answers: ["idk", "someone", ":/", "Pavel Durov"],
+    correctAnswer: "Pavel Durov"},
+  {question: "What is the maximum file size you can send via Telegram?",
+    answers: ["angry orchard", "milkyway", "Thoughts", "100 MB"],
+    correctAnswer: "100 MB"},
+  {question: "Can a telegram make you go crazy?",
+    answers: ["I guess", "Maybe", "yes", "None of the above"],
+    correctAnswer: "yes"},
+  {question: "no more questions?",
+    answers: ["YES"],
+    correctAnswer: "YES"},
+
 ]
 
 // This starts the quiz.
